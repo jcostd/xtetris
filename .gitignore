@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+*.DS_Store
+
+# Editor / IDE directories
+.vscode/
+.ccls-cache/
+
+# Build artifacts and compiled files
+bin/
+obj/
+*.o
+*.out
+*.out.dSYM/
